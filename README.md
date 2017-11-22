@@ -1,2 +1,10 @@
-# app_duque
-prueba
+# Gestures
+
+## Usage
+
+### PhoneGap CLI
+
+    $ phonegap serve
+
+
+
