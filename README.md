@@ -1,4 +1,4 @@
-# Gestures
+# Gestos
 
 ## Usage
 
